@@ -4,3 +4,308 @@ updates:
     directory: /
     schedule:
       interval: weekly
+
+  - package-ecosystem: npm
+    directory: /apps/docs
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /apps/www
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /demo
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: docker
+    directory: /examples/assistant
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/assistant
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/braintrust
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/chat-sdk
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/cloudflare
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/discord-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/github-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/google-chat-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/hello-world
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/imported-skill
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/intercom-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/linear-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/messenger-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/node-schedules
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/notion-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/react-chat
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/resend-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/salesforce-marketing-cloud-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/sentry
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/shopify-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/slack-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/stripe-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/support-desk
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/teams-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/telegram-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/twilio-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/vitest-evals
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/whatsapp-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /examples/zendesk-channel
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/cli
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/discord
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/github
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/google-chat
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/intercom
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/libsql
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/linear
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/messenger
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/mongodb
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/mysql
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/notion
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/opentelemetry
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/postgres
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/react
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/redis
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/resend
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/runtime
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/salesforce-marketing-cloud
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/sdk
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/shopify
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/slack
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/stripe
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/teams
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/telegram
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/twilio
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/vite
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/whatsapp
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: npm
+    directory: /packages/zendesk
+    schedule:
+      interval: weekly
